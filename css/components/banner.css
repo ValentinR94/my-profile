@@ -1,0 +1,10 @@
+.banner {
+  font-family: Noto serif display;
+  background-image: url(../../images/paris5.jpeg);   
+  background-size: cover;
+  padding: 200px 0px;
+  color: whitesmoke;
+  text-align: center;
+  font-size: xx-large;
+ 
+ }

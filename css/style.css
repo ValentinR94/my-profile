@@ -1,0 +1,46 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lora&display=swap'$");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+font-size: 18px;
+background-color: whitesmoke;
+
+}
+
+h1{
+font-family: Noto serif display;
+color: whitesmoke;
+}
+
+h2{
+font-family: Noto serif display, serif;
+font-weight: bold;
+}
+
+h3{
+font-family: Noto serif display;
+font-weight: bold;
+text-align: justify;
+
+}
+
+
+a{ 
+background-color: #C3B091;
+ padding: 15px 20px;
+ border-radius: 4px;
+ color: #EFEFEF;
+ font-weight: bold;
+ font-family: Noto serif display;
+ }
+ ;
+}
+
+p{
+	font-family: Noto serif display, serif;
+}
